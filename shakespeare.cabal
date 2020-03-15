@@ -56,6 +56,7 @@ library
     exposed-modules: Text.Shakespeare.I18N
                      Text.Shakespeare.Text
                      Text.Babel
+                     Text.Babel.React
                      Text.Roy
                      Text.Julius
                      Text.Coffee
